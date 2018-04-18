@@ -1,0 +1,8 @@
+/*
+/*/
+!/src/
+!/CSVs/
+!/README.md
+!/build.gradle
+!/.travis.yml
+!/foodRequest
