@@ -1,0 +1,72 @@
+//apply plugin: 'java'
+//apply plugin: 'idea'
+//apply plugin: 'org.ysb33r.nodejs.npm'
+
+
+
+
+plugins {
+    id 'com.github.psxpaul.execfork' version '0.1.7'
+    id 'java'
+    id 'idea'
+}
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+version = '1.0'
+
+
+
+repositories {
+    jcenter()
+    mavenCentral()
+}
+
+dependencies {
+    testCompile(
+            [group: 'junit', name: 'junit', version: '4.12'],
+            [group: 'com.jfoenix', name: 'jfoenix', version: '8.0.3'],
+            [group: 'org.apache.derby', name: 'derby', version: '10.11.1.1'],
+            [group: 'org.apache.derby', name: 'derbyclient', version: '10.11.1.1'],
+            [group: 'org.apache.derby', name: 'derbytools', version: '10.11.1.1']
+    )
+    compile(
+            [group: 'junit', name: 'junit', version: '4.12'],
+            [group: 'com.jfoenix', name: 'jfoenix', version: '8.0.3'],
+            [group: 'org.apache.derby', name: 'derby', version: '10.11.1.1'],
+            [group: 'org.apache.derby', name: 'derbyclient', version: '10.11.1.1'],
+            [group: 'org.apache.derby', name: 'derbytools', version: '10.11.1.1']
+    )
+    compile 'com.jfoenix:jfoenix:8.0.3' // Java 8
+    compile "com.sparkjava:spark-core:2.7.2" // add to build.gradle (for Java users)
+    compile group: "com.twilio.sdk", name: "twilio", version: "7.17.+" //twilio stuff
+    compile group: "org.slf4j", name: "slf4j-simple", version: "1.6.1" //help with server stuff
+}
+
+
+jar {
+    manifest {
+        attributes 'Main-Class': 'Main'
+    }
+    from configurations.runtime.collect { zipTree(it) }
+}
+
+
+task run(type: JavaExec, dependsOn: 'phoneStuff') {
+    main = 'Main'
+    classpath = sourceSets.main.runtimeClasspath
+}
+
+task phoneStuff(type: com.github.psxpaul.task.ExecFork) {
+    //commandLine = 'lt', '--port', '4567', '--subdomain', 'testatester'
+    //commandLine = 'lt --port 4567 --subdomain testatester';
+    commandLine = "lt"
+    args = ['--port','4567','--subdomain', 'testatesterab']
+}
+
+
+
+
+test {
+    testLogging.showStandardStreams = true
+}

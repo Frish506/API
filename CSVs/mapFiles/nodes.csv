@@ -1,0 +1,581 @@
+ACONF00102,1580.0,2538.0,2,BTM,HALL,Hall,Hall,Team A,1106.0,2080.0
+ACONF00103,1648.0,2968.0,3,BTM,CONF,BTM Conference Center,BTM Conference,Team A,1029.0,2246.0
+ADEPT00101,1401.0,2628.0,1,BTM,DEPT,Neuroscience Waiting Room,Neuro Waiting Room,Team A,938.0,2132.0
+ADEPT00102,1395.0,2674.0,2,BTM,DEPT,Orthopedics and Rhemutalogy,Orthopedics and Rhemutalogy,Team A,932.0,2095.0
+ADEPT00201,1720.0,2847.0,1,BTM,DEPT,MS Waiting,MS Waiting,Team A,1080.0,2261.0
+ADEPT00301,986.0,2852.0,1,BTM,DEPT,CART Waiting,CART Waiting,Team A,594.0,2130.0
+AELEV00S01,1534.0,2777.0,1,BTM,ELEV,Elevator S 01,Elevator S 1,Team A,987.0,2187.0
+AELEV00S02,1532.0,2777.0,2,BTM,ELEV,Elevator S 02,Elevator S 2,Team A,1001.0,2162.0
+AELEV00S03,1539.0,2773.0,3,BTM,ELEV,Elevator S Floor 3,Elevator S 3,Team A,1014.0,2150.0
+AELEV00SL2,1630.0,2742.0,L2,BTM,ELEV,Elevator S L2,Elevator S L2,Team A,988.0,2231.0
+AEXIT001L2,1696.0,2788.0,L2,BTM,EXIT,Parking Garage L2,Parking Garage L2,Team A,1018.0,2271.0
+AHALL00101,1638.0,2553.0,1,BTM,HALL,Hall,Hall,Team A,1112.0,2120.0
+AHALL00102,1591.0,2560.0,2,BTM,HALL,Hall,Hall,Team A,1105.0,2090.0
+AHALL00103,1534.0,2732.0,3,BTM,HALL,Hall,Hall,Team A,1035.0,2133.0
+AHALL001L2,1627.0,2782.0,L2,BTM,HALL,Hallway to Elevator,Hall,Team A,972.0,2251.0
+AHALL00201,1608.0,2596.0,1,BTM,HALL,Hall,Hall,Team A,1088.0,2140.0
+AHALL00202,1590.0,2604.0,2,BTM,HALL,Hall,Hall,Team A,1095.0,2107.0
+AHALL00203,1600.0,2732.0,3,BTM,HALL,Hall,Hall,Team A,1068.0,2145.0
+AHALL002L2,1698.0,2776.0,L2,BTM,HALL,Hallway Intersection,Hall,Team A,1022.0,2265.0
+AHALL00301,1608.0,2737.0,1,BTM,HALL,Hall,Hall,Team A,1043.0,2200.0
+AHALL00302,1590.0,2745.0,2,BTM,HALL,Hall,Hall,Team A,1034.0,2187.0
+AHALL00303,1650.0,2732.0,3,BTM,HALL,Hall,Hall,Team A,1100.0,2155.0
+AHALL003L2,1701.0,2734.0,L2,BTM,HALL,Hall,Hall,Team A,1036.0,2245.0
+AHALL00401,1420.0,2737.0,1,BTM,HALL,Hall,Hall,Team A,954.0,2154.0
+AHALL00402,1528.0,2745.0,2,BTM,HALL,Hall,Hall,Team A,1013.0,2153.0
+AHALL00403,1650.0,2766.0,3,BTM,HALL,Hall,Hall,Team A,1089.0,2174.0
+AHALL004L2,1698.0,2687.0,L2,BTM,HALL,Hall,Hall,Team A,1052.0,2223.0
+AHALL00501,1420.0,2865.0,1,BTM,HALL,Hall,Hall,Team A,901.0,2239.0
+AHALL00502,1398.0,2745.0,2,BTM,HALL,Hall,Hall,Team A,904.0,2117.0
+AHALL00503,1650.0,2855.0,3,BTM,HALL,Hall,Hall,Team A,1049.0,2214.0
+AHALL00601,1678.0,2865.0,1,BTM,HALL,Hall,Hall,Team A,1042.0,2293.0
+AHALL00602,1683.0,2543.0,2,BTM,HALL,Hall,Hall,Team A,1164.0,2094.0
+AHALL00603,1580.0,2858.0,3,BTM,HALL,HallNode,HallNode,Team A,1013.0,2205.0
+AHALL00701,1017.0,2865.0,1,BTM,HALL,Hall,Hall,Team A,611.0,2142.0
+AHALL00801,1532.0,2739.0,1,BTM,HALL,Hall,Hall,Team A,991.0,2179.0
+AHALL00901,1581.0,2566.0,1,BTM,HALL,Hall,Hall,Team A,1074.0,2135.0
+AHALL01001,1605.0,2568.0,1,BTM,HALL,Hall,Hall,Team A,736.0,2000.0
+AINFO001L2,1681.0,2747.0,L2,BTM,INFO,BTM Security Desk,Security,Team A,1022.0,2245.0
+ALABS00103,1611.0,2678.0,3,BTM,LABS,Innovation Hub,Innovation Hub,Team A,1079.0,2121.0
+ALABS001L2,1667.0,2682.0,L2,BTM,LABS,MRI CT Scan Imaging,MRI CT Imaging,Team A,1029.0,2217.0
+ALABS00203,1671.0,2695.0,3,BTM,LABS,Clinical Trials,Clinical Trials,Team A,1117.0,2142.0
+AREST00101,1556.0,2604.0,1,BTM,REST,Restroom S elevator 1st floor,Restroom,Team A,1032.0,2119.0
+AREST00103,1552.0,2854.0,3,BTM,REST,Restroom BTM conference center 3rd floor,Restroom,Team A,1000.0,2198.0
+ARETL00101,1619.0,2522.0,1,BTM,RETL,Cafe,Cafe,Team A,1126.0,2105.0
+ASTAI00101,1642.0,2596.0,1,BTM,STAI,Cafe Stairs,Cafe Staris,Team A,1104.0,2144.0
+ASTAI00102,1650.0,2602.0,2,BTM,STAI,Stairs Floor 2,Stairs Floor 2,Team A,1125.0,2120.0
+BCONF00102,2150.0,1025.0,2,45 Francis,CONF,Duncan Reid Conference Room,Conf B0102,Team B,2014.0,1423.0
+BHALL03802,2279.0,786.0,2,45 Francis,HALL,Hallway Intersection 38 Level 2,Hallway B3802,Team B,2193.0,1323.0
+BDEPT00202,2166.0,1039.0,2,45 Francis,DEPT,Oral Medicine and Dentistry,DEPT B0202,Team B,2013.0,1435.0
+BDEPT00302,2385.0,753.0,2,45 Francis,DEPT,Lee Bell Breast Center,DEPT B0302,Team B,2293.0,1320.0
+BDEPT00402,2439.0,902.0,2,45 Francis,DEPT,Jen Center for Primary Care,DEPT B0402,Team B,2266.0,1442.0
+BDEPT00502,2623.0,1018.0,2,45 Francis,DEPT,Ear Nose & Throat,DEPT B0502,Team B,2358.0,1553.0
+BDEPT00602,2782.0,1303.0,2,45 Francis,HALL,Hallway Intersection 31 Level 2,Hallway B3102,Team B,2377.0,1747.0
+BDEPT00702,2945.0,775.0,2,45 Francis,DEPT,Plastic Surgery,DEPT B0702,Team B,2690.0,1510.0
+BDEPT00802,3155.0,890.0,2,45 Francis,DEPT,Outpatient Pharmacy,DEPT B0802,Team B,2834.0,1627.0
+BDEPT00902,3257.0,879.0,2,45 Francis,DEPT,Weiner Center for Preoperative Evaluation,DEPT B0902,Team B,2900.0,1649.0
+BHALL00102,2238.0,902.0,2,45 Francis,HALL,Hallway Intersection 1 Level 2,Hallway B0102,Team B,2121.0,1377.0
+BHALL00202,2279.0,902.0,2,45 Francis,HALL,Hallway Intersection 2 Level 2,Hallway B0202,Team B,2153.0,1387.0
+BHALL00302,2238.0,1028.0,2,45 Francis,HALL,Hallway Intersection 3 Level 2,Hallway B0302,Team B,2078.0,1451.0
+BHALL00402,2246.0,1280.0,2,45 Francis,HALL,Hallway Intersection 4 Level 2,Hallway B0402,Team B,1990.0,1591.0
+BHALL00502,2385.0,902.0,2,45 Francis,HALL,Hallway Intersection 5 Level 2,Hallway B0502,Team B,2226.0,1428.0
+BHALL00602,2605.0,902.0,2,45 Francis,HALL,Hallway Intersection 6 Level 2,Hallway B0602,Team B,2390.0,1487.0
+BHALL00702,2672.0,902.0,2,45 Francis,HALL,Hallway Intersection 7 Level 2,Hallway B0702,Team B,2448.0,1507.0
+BHALL00802,2605.0,783.0,2,45 Francis,HALL,Hallway Intersection 8 Level 2,Hallway B0802,Team B,2430.0,1419.0
+BHALL00902,2330.0,590.0,2,45 Francis,HALL,Hallway Intersection 9 Level 2,Hallway B0902,Team B,2341.0,1180.0
+BHALL01002,2713.0,902.0,2,45 Francis,HALL,Hallway Intersection 10 Level 2,Hallway B1002,Team B,2475.0,1517.0
+BHALL01102,2912.0,903.0,2,45 Francis,HALL,Hallway Intersection 11 Level 2,Hallway B1102,Team B,2616.0,1557.0
+BHALL01202,2945.0,902.0,2,45 Francis,HALL,Hallway Intersection 12 Level 2,Hallway B1202,Team B,2647.0,1566.0
+BHALL01302,3135.0,890.0,2,45 Francis,HALL,Hallway Intersection 13 Level 2,Hallway B1302,Team B,2795.0,1615.0
+BHALL01402,3296.0,880.0,2,45 Francis,HALL,Hallway Intersection 14 Level 2,Hallway B1402,Team B,2907.0,1652.0
+BHALL01502,2672.0,820.0,2,45 Francis,HALL,Hallway Intersection 15 Level 2,Hallway B1502,Team B,2481.0,1455.0
+BHALL01602,2721.0,750.0,2,45 Francis,HALL,Hallway Intersection 16 Level 2,Hallway B1602,Team B,2535.0,1430.0
+BHALL01702,2945.0,710.0,2,45 Francis,HALL,Hallway Intersection 17 Level 2,Hallway B1702,Team B,2707.0,1466.0
+BHALL01802,2610.0,953.0,2,45 Francis,HALL,Hallway Intersection 18 Level 2,Hallway B1802,Team B,2373.0,1519.0
+BHALL01902,2678.0,1032.0,2,45 Francis,HALL,Hallway Intersection 19 Level 2,Hallway B1902,Team B,2409.0,1577.0
+BHALL02002,2761.0,1032.0,2,45 Francis,HALL,Hallway Intersection 20 Level 2,Hallway B2002,Team B,2458.0,1593.0
+BHALL02102,2841.0,1032.0,2,45 Francis,HALL,Hallway Intersection 21 Level 2,Hallway B2102,Team B,2511.0,1611.0
+BHALL02202,2900.0,985.0,2,45 Francis,HALL,Hallway Intersection 22 Level 2,Hallway B2202,Team B,2575.0,1609.0
+BHALL02302,2912.0,963.0,2,45 Francis,HALL,Hallway Intersection 23 Level 2,Hallway B2302,Team B,2592.0,1601.0
+BHALL02502,3163.0,945.0,2,45 Francis,HALL,Hallway Intersection 25 Level 2,Hallway B2502,Team B,2790.0,1658.0
+BHALL02602,3296.0,945.0,2,45 Francis,HALL,Hallway Intersection 26 Level 2,Hallway B2602,Team B,2884.0,1690.0
+BHALL02702,3296.0,1043.0,2,45 Francis,HALL,Hallway Intersection 27 Level 2,Hallway B2702,Team B,2867.0,1724.0
+BHALL02802,3063.0,1043.0,2,45 Francis,HALL,Hallway Intersection 28 Level 2,Hallway B2802,Team B,2678.0,1654.0
+BHALL02902,2782.0,1091.0,2,45 Francis,HALL,Hallway Intersection 29 Level 2,Hallway B2902,Team B,2451.0,1637.0
+BHALL03002,2782.0,1165.0,2,45 Francis,HALL,Hallway Intersection 30 Level 2,Hallway B3002,Team B,2428.0,1670.0
+BHALL03102,2554.0,1280.0,2,45 Francis,HALL,Hallway Intersection 31 Level 2,Hallway B3102,Team B,2216.0,1673.0
+BHALL03202,2554.0,1472.0,2,45 Francis,HALL,Hallway Intersection 32 Level 2,Hallway B3202,Team B,2140.0,1781.0
+BINFO00102,2962.0,963.0,2,45 Francis,INFO,Information Desk Level 2,INFO B0102,Team B,2630.0,1614.0
+BINFO00202,3136.0,963.0,2,45 Francis,INFO,Valet Service Level 2,INFO B0202,Team B,2756.0,1651.0
+BLABS00102,2246.0,1350.0,2,45 Francis,LABS,Vascular Diagnostic Lab,Labs B0102,Team B,1958.0,1641.0
+BLABS00202,2945.0,995.0,2,45 Francis,LABS,Outpatient Specimen Collection,Labs B0202,Team B,2598.0,1618.0
+BREST00102,2177.0,1010.0,2,45 Francis,REST,Restroom 1 Level 2,REST B0102,Team B,2034.0,1424.0
+BREST00202,2605.0,841.0,2,45 Francis,REST,Restroom 2 Level 2,REST B0202,Team B,2410.0,1454.0
+BREST00302,2225.0,1280.0,2,45 Francis,REST,Restroom 3 Level 2,REST B0302,Team B,1975.0,1585.0
+BREST00402,2554.0,1389.0,2,45 Francis,REST,Restroom 4 Level 2,REST B0402,Team B,2181.0,1728.0
+BREST00502,2782.0,1152.0,2,45 Francis,REST,Restroom 5 Level 2,REST B0502,Team B,2434.0,1661.0
+BSERV00102,2853.0,1067.0,2,45 Francis,SERV,Patient Financial Services,SERV B0102,Team B,2522.0,1643.0
+BSTAI00102,2177.0,902.0,2,45 Francis,STAI,Staircase Intersection 1 Level 2,Stair B0102,Team B,2066.0,1358.0
+BSTAI00202,2279.0,827.0,2,45 Francis,STAI,Staircase Intersection 2 Level 2,Stair B0202,Team B,2169.0,1365.0
+BSTAI00302,2554.0,783.0,2,45 Francis,STAI,Staircase Intersection 3 Level 2,Stair B0302,Team B,2395.0,1406.0
+BSTAI00502,2945.0,840.0,2,45 Francis,STAI,Staircase Intersection 5 Level 2,Stair B0502,Team B,2661.0,1537.0
+BSTAI00602,3217.0,886.0,2,45 Francis,STAI,Staircase Intersection 6 Level 2,Stair B0602,Team B,2850.0,1636.0
+BSTAI00702,2811.0,1165.0,2,45 Francis,STAI,Staircase Intersection 7 Level 2,Stair B0702,Team B,2451.0,1678.0
+BSTAI00802,2554.0,1316.0,2,45 Francis,STAI,Staircase Intersection 8 Level 2,Stair B0802,Team B,2206.0,1692.0
+BSTAI00902,2190.0,1280.0,2,45 Francis,STAI,Staircase Intersection 9 Level 2,Stair B0902,Team B,1951.0,1576.0
+BSTAI01002,2238.0,932.0,2,45 Francis,STAI,Staircase Intersection 10 Level 2,Stair B1002,Team B,2110.0,1403.0
+BHALL03302,2782.0,1280.0,2,45 Francis,HALL,Hallway Intersection 33 Level 2,Hallway B3302,Team B,2384.0,1733.0
+BHALL03402,2166.0,1028.0,2,45 Francis,HALL,Hallway Intersection 34 Level 2,Hallway B3402,Team B,2026.0,1430.0
+BHALL03502,2246.0,1028.0,2,45 Francis,HALL,Hallway Intersection 35 Level 2,Hallway B3502,Team B,2085.0,1453.0
+BDEPT00102,2260.0,786.0,2,45 Francis,DEPT,Comprehensive Breast Heath,DEPT B0102,Team B,2186.0,1322.0
+BHALL03602,2279.0,762.0,2,45 Francis,HALL,Hallway Intersection 36 Level 2,Hallway B3602,Team B,2200.0,1315.0
+BHALL03702,2322.0,641.0,2,45 Francis,HALL,Hallway Intersection 37 Level 2,Hallway B3702,Team B,2288.0,1262.0
+BHALL04102,2678.0,1067.0,2,45 Francis,HALL,Hallway Intersection 41 Level 2,Hallway B04102,Team B,2401.0,1595.0
+BHALL04202,2761.0,1067.0,2,45 Francis,HALL,Hallway Intersection 42 Level 2,Hallway B04202,Team B,2440.0,1632.0
+BHALL04302,2782.0,1067.0,2,45 Francis,HALL,Hallway Intersection 43 level 2,Hallway B04302,Team B,2451.0,1637.0
+BHALL04402,3063.0,963.0,2,45 Francis,HALL,Hallway Intersection 44 Level 2,Hallway B4402,Team B,2694.0,1632.0
+CCONF001L1,2255.0,850.0,L1,45 Francis,CONF,Anesthesia Conf Floor L1,Conf C001L1,Team C,10839.0,7082.0
+CCONF002L1,2665.0,1043.0,L1,45 Francis,CONF,Medical Records Conference Room Floor L1,Conf C002L1,Team C,11964.0,8139.0
+CCONF003L1,2445.0,1245.0,L1,45 Francis,CONF,Abrams Conference Room,Conf C003L1,Team C,10809.0,8393.0
+CDEPT002L1,1980.0,845.0,L1,Tower,DEPT,Day Surgery Family Waiting Floor L1,Department C002L1,Team C,9848.0,6700.0
+CDEPT003L1,1845.0,845.0,L1,Tower,DEPT,Day Surgery Family Waiting Exit Floor L1,Department C003L1,Team C,9353.0,6517.0
+CDEPT004L1,2310.0,1043.0,L1,45 Francis,DEPT,Medical Records Film Library Floor L1,Department C004L1,Team C,10687.0,7672.0
+CHALL001L1,1732.0,925.0,L1,Tower,HALL,Hallway 1 Floor L1,Hallway C001L1,Team C,8788.0,6579.0
+CHALL001L2,2360.0,855.0,L2,45 Francis,HALL,Hallway K Elevator Floor L2,Hallway C001L2,Team C,11218.0,7372.0
+CHALL002L1,2445.0,1043.0,L1,45 Francis,HALL,Hallway 2 Floor L1,Hallway C002L1,Team C,11175.0,7850.0
+CHALL002L2,2270.0,905.0,L2,45 Francis,HALL,Hallway 2 Floor L2,Hallway C002L2,Team C,10818.0,7396.0
+CHALL003L1,2445.0,1285.0,L1,45 Francis,HALL,Hallway 3 Floor L1,Hallway C003L1,Team C,10736.0,8501.0
+CHALL003L2,2215.0,905.0,L2,45 Francis,HALL,Hallway 3 Floor L2,Hallway C003L2,Team C,10628.0,7324.0
+CHALL004L1,2770.0,1070.0,L1,45 Francis,HALL,Hallway 4 Floor L1,Hallway C004L1,Team C,12290.0,8347.0
+CHALL004L2,2130.0,905.0,L2,45 Francis,HALL,Hallway 4 Floor L2,Hallway C004L2,Team C,10310.0,7204.0
+CHALL005L1,1750.0,1285.0,L1,Tower,HALL,Hallway 5 Floor L1,Hallway C005L1,Team C,8181.0,7580.0
+CHALL005L2,1745.0,1280.0,L2,Tower,HALL,Hallway 5 Floor L2,Hallway C005L2,Team C,8128.0,7789.0
+CHALL006L1,2130.0,1285.0,L1,Tower,HALL,Hallway 6 Floor L1,Hallway C006L1,Team C,9587.0,8087.0
+CHALL006L2,1745.0,1010.0,L2,Tower,HALL,Hallway 6 Floor L2,Hallway C006L2,Team C,8274.0,6917.0
+CHALL007L1,2130.0,1045.0,L1,Tower,HALL,Hallway 7 Floor L1,Hallway C007L1,Team C,10029.0,7439.0
+CHALL007L2,1730.0,1010.0,L2,Tower,HALL,Hallway 7 Floor L2,Hallway C007L2,Team C,8182.0,6887.0
+CHALL008L1,2215.0,1045.0,L1,45 Francis,HALL,Hallway 8 Floor L1,Hallway C008L1,Team C,10339.0,7552.0
+CHALL008L2,1730.0,925.0,L2,Tower,HALL,Hallway 8 Floor L2,Hallway C008L2,Team C,8236.0,6523.0
+CHALL009L1,2220.0,905.0,L1,45 Francis,HALL,Hallway 9 Floor L1,Hallway C009L1,Team C,10612.0,7183.0
+CHALL009L2,1730.0,850.0,L2,Tower,HALL,Hallway 9 Floor L2,Hallway C009L2,Team C,8290.0,6154.0
+CHALL010L1,2265.0,905.0,L1,45 Francis,HALL,Hallway 10 Floor L1,Hallway C010L1,Team C,10775.0,7243.0
+CHALL010L2,2130.0,850.0,L2,Tower,HALL,Hallway 10 Floor L2,Hallway C010L2,Team C,10420.0,7026.0
+CHALL011L1,2360.0,850.0,L1,45 Francis,HALL,Hallway 11 Floor L1,Hallway C011L1,Team C,11217.0,7222.0
+CHALL012L1,2130.0,905.0,L1,45 Francis,HALL,Hallway 12 Floor L1,Hallway C012L1,Team C,10285.0,7062.0
+CHALL013L1,2130.0,845.0,L1,45 Francis,HALL,Hallway 13 Floor L1,Hallway C013L1,Team C,10395.0,6902.0
+CHALL014L1,1845.0,925.0,L1,Tower,HALL,Hallway 14 Floor L1,Hallway C014L1,Team C,9205.0,6732.0
+CHALL015L1,2300.0,850.0,L1,45 Francis,HALL,Hallway 15 Floor L1,Hallway C015L1,Team C,11001.0,7142.0
+CLABS001L1,1965.0,1285.0,L1,Tower,LABS,Outpatient Fluoroscopy Floor L1,Lab C001L1,Team C,8979.0,7868.0
+CLABS001L2,2300.0,855.0,L2,45 Francis,LABS,Radiation Oncology TX Suite Floor L2,Lab C001L2,Team C,11027.0,7294.0
+CLABS002L1,1750.0,1090.0,L1,Tower,LABS,Pre-Op PACU Floor L1,Lab C002L1,Team C,8547.0,7050.0
+CLABS002L2,2215.0,1280.0,L2,45 Francis,LABS,Radiation Oncology Floor L2,Lab C002L2,Team C,10013.0,8198.0
+CLABS003L1,2290.0,1285.0,L1,45 Francis,LABS,Nuclear Medicine Floor L1,Lab C003L1,Team C,10173.0,8298.0
+CLABS004L1,2320.0,1285.0,L1,45 Francis,LABS,Ultrasound Floor L1,Lab C004L1,Team C,10282.0,8338.0
+CLABS005L1,2770.0,1285.0,L1,45 Francis,LABS,CSIR MRI Floor L1,Lab C005L1,Team C,11906.0,8923.0
+CREST001L1,1732.0,1020.0,L1,Tower,REST,Restroom L Elevator Floor L1,Restroom C001L1,Team C,8611.0,6836.0
+CREST001L2,2300.0,885.0,L2,45 Francis,REST,Restroom K Elevator Floor L2,Restroom C001L2,Team C,10960.0,7378.0
+CREST002L1,2065.0,1285.0,L1,Tower,REST,Restroom M Elevator Floor L1,Restroom C002L1,Team C,9348.0,8001.0
+CREST002L2,1930.0,1280.0,L2,45 Francis,REST,Restroom L Elevator Floor L2,Restroom C002L2,Team C,8980.0,7974.0
+CREST003L1,2300.0,880.0,L1,45 Francis,REST,Restroom K Elevator Floor L1,Restroom C003L1,Team C,10947.0,7222.0
+CREST004L1,2770.0,1160.0,L1,45 Francis,REST,Restroom H Elevator Floor L1,Restroom C004L1,Team C,12129.0,8588.0
+CRETL001L1,2185.0,905.0,L1,45 Francis,RETL,Vending Machine 1 L1,Retail C001L1,Team C,10485.0,7136.0
+CSERV001L1,2490.0,1043.0,L1,45 Francis,SERV,Volunteers Floor L1,Service C001L1,Team C,11337.0,7910.0
+CSERV001L2,2015.0,1280.0,L2,45 Francis,SERV,Interpreter Services Floor L2,Service C001L2,Team C,9319.0,8047.0
+DELEV00A02,4550.0,375.0,2,15 Francis,ELEV,Elevator A Floor 2,Elevator A2,Team D,4030.0,1705.0
+DELEV00B02,4155.0,650.0,2,15 Francis,ELEV,Elevator B Floor 2,Elevator B2,Team D,3625.0,1740.0
+DELEV00C02,3955.0,885.0,2,15 Francis,ELEV,Elevator C Floor 2,Elevator C2,Team D,3380.0,1835.0
+DELEV00D02,3475.0,760.0,2,15 Francis,ELEV,Elevator D Floor 2,Elevator D2,Team D,3080.0,1635.0
+DREST00102,4125.0,625.0,2,15 Francis,REST,Restroom B elevator Floor 2,Restroom B,Team D,3600.0,1740.0
+DREST00202,3895.0,695.0,2,15 Francis,REST,Restroom C elevator Floor 2,Restroom C,Team D,3400.0,1725.0
+DREST00302,3635.0,830.0,2,15 Francis,REST,Restroom C-D elevator Floor 2,Restroom C-D,Team D,3170.0,1730.0
+DREST00402,3525.0,850.0,2,15 Francis,REST,Restroom D elevator Floor 2,Restroom D,Team D,3070.0,1710.0
+DINFO00102,4210.0,630.0,2,15 Francis,INFO,15 Francis Security Desk Floor 2,Information Desk,Team D,3670.0,1765.0
+DINFO00202,3490.0,825.0,2,15 Francis,INFO,Security Desk Thorn Floor 2,Security Desk,Team D,3050.0,1675.0
+DDEPT00102,4330.0,700.0,2,15 Francis,DEPT,Chest Diseases Floor 2,Chest Diseases,Team D,3715.0,1840.0
+DDEPT00202,4240.0,730.0,2,15 Francis,DEPT,Thoracic Surgery Clinic Floor 2,Thoracic Surgery Clinic,Team D,3655.0,1835.0
+DDEPT00302,3900.0,640.0,2,15 Francis,DEPT,Brigham Health Floor 2,Brigham Health,Team D,3440.0,1660.0
+DDEPT00402,3425.0,870.0,2,15 Francis,DEPT,Waiting Room Floor 2,Waiting Room,Team D,3000.0,1685.0
+DLABS00102,3830.0,775.0,2,15 Francis,LABS,MRI Associates Floor 2,MRI Associates,Team D,3330.0,1745.0
+DCONF00102,4595.0,550.0,2,15 Francis,CONF,Carrie M. Hall Conference Center Floor 2,Conference Center,Team D,3960.0,1825.0
+DRETL00102,4270.0,480.0,2,15 Francis,RETL,Pats Place Floor 2,Pats Place,Team D,3765.0,1710.0
+DEXIT00102,4295.0,750.0,2,15 Francis,EXIT,15 Lobby Entrance Floor 2,15 Lobby Entrance,Team D,3680.0,1845.0
+DSTAI00102,4650.0,675.0,2,15 Francis,STAI,Staircase1 Floor2,Staircase1,Team D,3965.0,1905.0
+DSTAI00202,4330.0,580.0,2,15 Francis,STAI,Staircase2 Floor2,Staircase2,Team D,3770.0,1760.0
+DSTAI00302,4250.0,440.0,2,15 Francis,STAI,Staircase3 Floor2,Staircase3,Team D,3770.0,1680.0
+DSTAI00402,4175.0,620.0,2,15 Francis,STAI,Staircase4 Floor2,Staircase4,Team D,3640.0,1760.0
+DSTAI00502,4065.0,630.0,2,15 Francis,STAI,Staircase5 Floor2,Staircase5,Team D,3560.0,1720.0
+DSTAI00602,3950.0,865.0,2,15 Francis,STAI,Staircase6 Floor2,Staircase6,Team D,3380.0,1835.0
+DSTAI00702,3855.0,565.0,2,15 Francis,STAI,Staircase7 Floor2,Staircase7,Team D,3430.0,1645.0
+DSTAI00802,3535.0,645.0,2,15 Francis,STAI,Staircase8 Floor2,Staircase8,Team D,3175.0,1585.0
+DHALL00102,4770.0,1140.0,2,15 Francis,HALL,Hallway 1 Floor 2,Hallway D0102,Team D,3890.0,2175.0
+DHALL00202,4750.0,1080.0,2,15 Francis,HALL,Hallway 2 Floor 2,Hallway D0202,Team D,3895.0,2155.0
+DHALL00302,4725.0,995.0,2,15 Francis,HALL,Hallway 3 Floor 2,Hallway D0302,Team D,3910.0,2105.0
+DHALL00402,4785.0,975.0,2,15 Francis,HALL,Hallway 4 Floor 2,Hallway D0402,Team D,3945.0,2105.0
+DHALL00502,4705.0,925.0,2,15 Francis,HALL,Hallway 5 Floor 2,Hallway D0502,Team D,3920.0,2060.0
+DHALL00602,4690.0,870.0,2,15 Francis,HALL,Hallway 6 Floor 2,Hallway D0602,Team D,3930.0,2025.0
+DHALL00702,4675.0,820.0,2,15 Francis,HALL,Hallway 7 Floor 2,Hallway D0702,Team D,3935.0,1995.0
+DHALL00802,4660.0,770.0,2,15 Francis,HALL,Hallway 8 Floor 2,Hallway D0802,Team D,3945.0,1965.0
+DHALL00902,4635.0,680.0,2,15 Francis,HALL,Hallway 9 Floor 2,Hallway D0902,Team D,3955.0,1905.0
+DHALL01002,4625.0,650.0,2,15 Francis,HALL,Hallway 10 Floor 2,Hallway D1002,Team D,3960.0,1890.0
+DHALL01102,4605.0,655.0,2,15 Francis,HALL,Hallway 11 Floor 3,Hallway D1102,Team D,3935.0,1885.0
+DHALL01202,4570.0,555.0,2,15 Francis,HALL,Hallway 12 Floor 3,Hallway D1202,Team D,3950.0,1825.0
+DHALL01302,4545.0,460.0,2,15 Francis,HALL,Hallway 13 Floor 3,Hallway D1302,Team D,3965.0,1775.0
+DHALL01402,4570.0,455.0,2,15 Francis,HALL,Hallway 14 Floor 3,Hallway D1402,Team D,3990.0,1775.0
+DHALL01502,4480.0,580.0,2,15 Francis,HALL,Hallway 15 Floor 3,Hallway D1502,Team D,3890.0,1815.0
+DHALL01602,4390.0,605.0,2,15 Francis,HALL,Hallway 16 Floor 3,Hallway D1602,Team D,3835.0,1805.0
+DHALL01702,4385.0,585.0,2,15 Francis,HALL,Hallway 17 Floor 3,Hallway D1702,Team D,3835.0,1790.0
+DHALL01802,4340.0,625.0,2,15 Francis,HALL,Hallway 18 Floor 3,Hallway D1802,Team D,3755.0,1780.0
+DHALL01902,4310.0,585.0,2,15 Francis,HALL,Hallway 19 Floor 3,Hallway D1902,Team D,3755.0,1765.0
+DHALL02002,4295.0,530.0,2,15 Francis,HALL,Hallway 20 Floor 3,Hallway D2002,Team D,3760.0,1735.0
+DHALL02102,4280.0,475.0,2,15 Francis,HALL,Hallway 21 Floor 4,Hallway D2102,Team D,3765.0,1705.0
+DHALL02202,4270.0,440.0,2,15 Francis,HALL,Hallway 22 Floor 4,Hallway D2202,Team D,3775.0,1680.0
+DHALL02302,4280.0,435.0,2,15 Francis,HALL,Hallway 23 Floor 4,Hallway D2302,Team D,3785.0,1685.0
+DHALL02402,4295.0,475.0,2,15 Francis,HALL,Hallway 24 Floor 4,Hallway D2402,Team D,3780.0,1700.0
+DHALL02502,4285.0,715.0,2,15 Francis,HALL,Hallway 25 Floor 4,Hallway D2502,Team D,3685.0,1835.0
+DHALL02602,4270.0,650.0,2,15 Francis,HALL,Hallway 26 Floor 4,Hallway D2602,Team D,3695.0,1790.0
+DHALL02702,4220.0,660.0,2,15 Francis,HALL,Hallway 27 Floor 4,Hallway D2702,Team D,3670.0,1790.0
+DHALL02802,4185.0,665.0,2,15 Francis,HALL,Hallway 28 Floor 4,Hallway D2802,Team D,3610.0,1775.0
+DHALL02902,4140.0,680.0,2,15 Francis,HALL,Hallway 29 Floor 4,Hallway D2902,Team D,3590.0,1775.0
+DHALL03002,4130.0,650.0,2,15 Francis,HALL,Hallway 30 Floor 4,Hallway D3002,Team D,3590.0,1750.0
+DHALL03102,4020.0,715.0,2,15 Francis,HALL,Hallway 31 Floor 5,Hallway D3102,Team D,3500.0,1765.0
+DHALL03202,4000.0,645.0,2,15 Francis,HALL,Hallway 32 Floor 5,Hallway D3202,Team D,3510.0,1715.0
+DHALL03302,3925.0,740.0,2,15 Francis,HALL,Hallway 33 Floor 5,Hallway D3302,Team D,3420.0,1755.0
+DHALL03402,3945.0,790.0,2,15 Francis,HALL,Hallway 34 Floor 5,Hallway D3402,Team D,3410.0,1780.0
+DHALL03502,3955.0,830.0,2,15 Francis,HALL,Hallway 35 Floor 5,Hallway D3502,Team D,3405.0,1810.0
+DHALL03602,3965.0,860.0,2,15 Francis,HALL,Hallway 36 Floor 5,Hallway D3602,Team D,3400.0,1830.0
+DHALL03702,3970.0,880.0,2,15 Francis,HALL,Hallway 37 Floor 5,Hallway D3702,Team D,3395.0,1845.0
+DHALL03802,3980.0,910.0,2,15 Francis,HALL,Hallway 38 Floor 5,Hallway D3802,Team D,3390.0,1870.0
+DHALL03902,3910.0,685.0,2,15 Francis,HALL,Hallway 39 Floor 5,Hallway D3902,Team D,3420.0,1745.0
+DHALL04002,3875.0,560.0,2,15 Francis,HALL,Hallway 40 Floor 5,Hallway D4002,Team D,3435.0,1670.0
+DHALL04102,3870.0,540.0,2,15 Francis,HALL,Hallway 41 Floor 6,Hallway D4102,Team D,3440.0,1660.0
+DHALL04202,3865.0,750.0,2,15 Francis,HALL,Hallway 42 Floor 6,Hallway D4202,Team D,3380.0,1740.0
+DHALL04302,3860.0,725.0,2,15 Francis,HALL,Hallway 43 Floor 6,Hallway D4302,Team D,3385.0,1720.0
+DHALL04402,3775.0,745.0,2,15 Francis,HALL,Hallway 44 Floor 6,Hallway D4402,Team D,3310.0,1705.0
+DHALL04502,3825.0,760.0,2,15 Francis,HALL,Hallway 45 Floor 6,Hallway D4502,Team D,3335.0,1735.0
+DHALL04602,3745.0,780.0,2,15 Francis,HALL,Hallway 46 Floor 6,Hallway D4602,Team D,3260.0,1720.0
+DHALL04702,3655.0,805.0,2,15 Francis,HALL,Hallway 47 Floor 6,Hallway D4702,Team D,3185.0,1715.0
+DHALL04802,3645.0,775.0,2,15 Francis,HALL,Hallway 48 Floor 2,Hallway D4802,Team D,3200.0,1680.0
+DHALL04902,3630.0,810.0,2,15 Francis,HALL,Hallway 49 Floor 2,Hallway D4902,Team D,3170.0,1710.0
+DHALL05002,3575.0,825.0,2,15 Francis,HALL,Hallway 50 Floor 2,Hallway D5002,Team D,3130.0,1700.0
+DHALL05102,3555.0,730.0,2,15 Francis,HALL,Hallway 51 Floor 2,Hallway D5102,Team D,3160.0,1595.0
+DHALL05202,3525.0,840.0,2,15 Francis,HALL,Hallway 52 Floor 2,Hallway D5202,Team D,3075.0,1695.0
+DHALL05302,3490.0,845.0,2,15 Francis,HALL,Hallway 53 Floor 2,Hallway D5302,Team D,3050.0,1685.0
+DHALL05402,3450.0,850.0,2,15 Francis,HALL,Hallway 54 Floor 2,Hallway D5402,Team D,3030.0,1685.0
+DHALL05502,3440.0,800.0,2,15 Francis,HALL,Hallway 55 Floor 2,Hallway D5502,Team D,3035.0,1685.0
+DHALL05602,3480.0,790.0,2,15 Francis,HALL,Hallway 56 Floor 2,Hallway D5602,Team D,3070.0,1660.0
+DHALL05702,3510.0,790.0,2,15 Francis,HALL,Hallway 57 Floor 2,Hallway D5702,Team D,3090.0,1660.0
+DHALL05802,3420.0,850.0,2,15 Francis,HALL,Hallway 58 Floor 2,Hallway D5802,Team D,3005.0,1680.0
+PHALL00102,4300.0,630.0,2,45 Francis,HALL,Kiosk,HALL,Team P,3700.0,1765.0
+ESTAI00101,2190.0,910.0,1,45 Francis,STAI,Staircase K1 Floor 1,Stair K1,Team E,2080.0,1390.0
+EHALL00301,2240.0,910.0,1,45 Francis,HALL,Hallway Node 1 Floor 1,Hall 01,Team E,2120.0,1410.0
+EHALL00401,2275.0,910.0,1,45 Francis,HALL,Hallway Node 2 Floor 1,HallE02,Team E,2150.0,1420.0
+ESTAI00201,2275.0,830.0,1,45 Francis,STAI,Staircase J1 Floor 1,Stair J1,Team E,2175.0,1375.0
+EEXIT00101,2275.0,785.0,1,45 Francis,EXIT,Ambulance Parking Exit Floor 1,AmbExit 1,Team E,2195.0,1355.0
+EHALL00501,2290.0,910.0,1,45 Francis,HALL,Hallway Node 3 Floor 1,HallE03,Team E,2155.0,1425.0
+EHALL00601,2385.0,910.0,1,45 Francis,HALL,Hallway Node 4 Floor 1,HallE04,Team E,2225.0,1450.0
+EHALL00701,2385.0,860.0,1,45 Francis,HALL,Hallway Node 5 Floor 1,HallE05,Team E,2245.0,1425.0
+EDEPT00101,2335.0,860.0,1,45 Francis,DEPT,Waiting Room 1 Floor 1,Wait 1,Team E,2205.0,1410.0
+EHALL00801,2460.0,910.0,1,45 Francis,HALL,Hallway Node 6 Floor 1,HallE06,Team E,2285.0,1470.0
+EINFO00101,2460.0,850.0,1,45 Francis,INFO,Connors Center Security Desk Floor 1,Security 1,Team E,2305.0,1440.0
+EHALL00901,2585.0,910.0,1,45 Francis,HALL,Hallway Node 7 Floor 1,HallE07,Team E,2375.0,1505.0
+EHALL01001,2585.0,890.0,1,45 Francis,HALL,Hallway Node 8 Floor 1,HallE08,Team E,2380.0,1495.0
+EHALL01101,2610.0,910.0,1,45 Francis,HALL,Hallway Node 9 Floor 1,HallE09,Team E,2390.0,1515.0
+EHALL01201,2610.0,955.0,1,45 Francis,HALL,Hallway Node 10 Floor 1,HallE10,Team E,2375.0,1535.0
+EHALL01301,2660.0,955.0,1,45 Francis,HALL,Hallway Node 11 Floor 1,HallE11,Team E,1410.0,1550.0
+EHALL01401,2660.0,980.0,1,45 Francis,HALL,Hallway Node 12 Floor 1,HallE12,Team E,2400.0,1560.0
+EHALL01501,2675.0,910.0,1,45 Francis,HALL,Hallway Node 13 Floor 1,HallE13,Team E,2435.0,1530.0
+EHALL01601,2910.0,910.0,1,45 Francis,HALL,Hallway Node 14 Floor 1,HallE14,Team E,2605.0,1590.0
+EHALL01701,2910.0,890.0,1,45 Francis,HALL,Hallway Node 15 Floor 1,HallE15,Team E,2610.0,1585.0
+EHALL01801,2925.0,910.0,1,45 Francis,HALL,Hallway Node 16 Floor 1,HallE16,Team E,2620.0,1595.0
+EHALL01901,2960.0,900.0,1,45 Francis,HALL,Hallway Node 17 Floor 1,HallE17,Team E,2645.0,1600.0
+EHALL02001,2950.0,745.0,1,45 Francis,HALL,Hallway Node 18 Floor 1,HallE18,Team E,2700.0,1515.0
+EREST00101,2950.0,730.0,1,45 Francis,REST,Restroom G1 Floor 1,Restroom G1,Team E,2700.0,1505.0
+EEXIT00201,2950.0,705.0,1,45 Francis,EXIT,Exit 2 Floor 1,Exit 2,Team E,2710.0,1495.0
+ELABS00101,3050.0,730.0,1,45 Francis,LABS,Asthma Research Floor 1,Asthma 1,Team E,2780.0,1535.0
+EDEPT00201,3100.0,890.0,1,45 Francis,DEPT,Wound and Ambulatory 1,WCCAT 1,Team E,2755.0,1630.0
+EDEPT00301,3200.0,880.0,1,45 Francis,DEPT,Ocupational Health Floor 1,Ocupational 1,Team E,2835.0,1655.0
+EHALL02101,3230.0,880.0,1,45 Francis,HALL,Hallway Node 19 Floor 1,HallE19,Team E,2850.0,1665.0
+EHALL02201,3270.0,875.0,1,45 Francis,HALL,Hallway Node 20 Floor 1,HallE20,Team E,2880.0,1675.0
+EHALL02301,3325.0,870.0,1,45 Francis,HALL,Hallway Node 21 Floor 1,HallE21,Team E,2925.0,1680.0
+EHALL02401,2770.0,980.0,1,45 Francis,HALL,Hallway Node 22 Floor 1,HallE22,Team E,2475.0,1585.0
+EHALL02501,2925.0,980.0,1,45 Francis,HALL,Hallway Node 23 Floor 1,HallE23,Team E,2590.0,1640.0
+EREST00201,2985.0,980.0,1,45 Francis,REST,Restroom F1 Floor 1,Restroom F1,Team E,2640.0,1650.0
+EHALL02601,3085.0,980.0,1,45 Francis,HALL,Hallway Node 24 Floor 1,HallE24,Team E,2715.0,1675.0
+EHALL02701,3085.0,1000.0,1,45 Francis,HALL,Hallway Node 25 Floor 1,HallE25,Team E,2705.0,1685.0
+EHALL02801,2925.0,1050.0,1,45 Francis,HALL,Hallway Node 26 Floor 1,HallE26,Team E,2555.0,1670.0
+EHALL02901,2770.0,1070.0,1,45 Francis,HALL,Hallway Node 27 Floor 1,HallE27,Team E,2450.0,1640.0
+EHALL03001,2790.0,1070.0,1,45 Francis,HALL,Hallway Node 28 Floor 1,HallE28,Team E,2465.0,1645.0
+ESTAI00301,2790.0,1155.0,1,45 Francis,STAI,Staircase H1 Floor 1,Stair H1,Team E,2440.0,1690.0
+EREST00301,2790.0,1190.0,1,45 Francis,REST,Restroom H1 Floor 1,Restroom H1,Team E,2430.0,1690.0
+ELABS00201,2790.0,1290.0,1,45 Francis,LABS,Ambulatory X-Ray Floor 1,X-Ray 1,Team E,2385.0,1760.0
+EDEPT00401,2790.0,1380.0,1,45 Francis,DEPT,Rehabilitation Services Floor 1,Rehab 1,Team E,2350.0,1810.0
+EHALL03101,2790.0,1460.0,1,45 Francis,HALL,Hallway Node 29 Floor 1,HallE29,Team E,2320.0,1850.0
+EHALL03201,2670.0,1380.0,1,45 Francis,HALL,Hallway Node 30 Floor 1,HallE30,Team E,2265.0,1780.0
+EHALL03301,2605.0,1380.0,1,45 Francis,HALL,Hallway Node 31 Floor 1,HallE31,Team E,2215.0,1765.0
+ESTAI00401,2605.0,1340.0,1,45 Francis,STAI,Staircase H2 Floor 1,Stair H2,Team E,2235.0,1735.0
+EHALL03401,2835.0,1460.0,1,45 Francis,HALL,Hallway Node 32 Floor 1,HallE32,Team E,2355.0,1865.0
+EHALL03501,2760.0,1460.0,1,45 Francis,HALL,Hallway Node 33 Floor 1,HallE33,Team E,2300.0,1845.0
+EHALL03601,2760.0,1405.0,1,45 Francis,HALL,Hallway Node 34 Floor 1,HallE34,Team E,2320.0,1820.0
+FHALL00101,2055.0,910.0,1,Tower,HALL,Lower Pike Hallway Exit Lobby,Hallway F00101,Team F,1970.0,1352.0
+FHALL00201,2026.0,910.0,1,Tower,HALL,Lobby Shattuck Street,Hallway F00201,Team F,1961.0,1352.0
+FSTAI00101,2026.0,892.0,1,Tower,STAI,Lobby Shattuck Street Stairs,Stairway F00101,Team F,1972.0,1342.0
+FHALL00301,2017.0,910.0,1,Tower,HALL,Shattuck Street Lobby 1,Hallway F00301,Team F,1955.0,1347.0
+FEXIT00101,2017.0,799.0,1,Tower,EXIT,Shattuck Street Lobby Exit,Shattuck St. Exit,Team F,1999.0,1284.0
+FHALL00401,1973.0,910.0,1,Tower,HALL,Shattuck Street Lobby 2,Hallway F00401,Team F,1928.0,1337.0
+FRETL00101,1973.0,844.0,1,Tower,RETL,Lobby Vending Machine,VM Lobby,Team F,1947.0,1300.0
+FHALL00501,1950.0,910.0,1,Tower,HALL,Shattuck Street Lobby 3,Hallway F00501,Team F,1913.0,1330.0
+FSERV00101,1950.0,871.0,1,Tower,SERV,Shattuck Street Lobby ATM,Lobby ATM,Team F,1926.0,1304.0
+FHALL00601,1869.0,930.0,1,Tower,HALL,Tower Lobby Entrance 1,Tower Entrance,Team F,1847.0,1311.0
+FHALL00701,1758.0,930.0,1,Tower,HALL,Tower Elevator Entrance,Hallway F00701,Team F,1766.0,1283.0
+FHALL00801,1758.0,850.0,1,Tower,HALL,Tower Hallway 1,Hallway F00801,Team F,1790.0,1242.0
+FHALL01301,1627.0,825.0,1,Tower,HALL,Tower Hallway 5,Hallway F01301,Team F,1710.0,1194.0
+FHALL00901,1627.0,850.0,1,Tower,HALL,Tower Hallway 2,Hallway F00901,Team F,1700.0,1208.0
+FHALL01001,1627.0,802.0,1,Tower,HALL,Tower Hallway 3,Hallway F01001,Team F,1720.0,1181.0
+FSTAI00201,1673.0,802.0,1,Tower,STAI,Tower Stairway 1,Tower Stairs 1,Team F,1749.0,1194.0
+FHALL01101,1627.0,930.0,1,Tower,HALL,Tower Hallway 4,Hallway F01101,Team F,1676.0,1247.0
+FHALL01201,1548.0,930.0,1,Tower,HALL,Tower Staff Entrance,Hallway F01201,Team F,1617.0,1226.0
+FDEPT00101,1617.0,825.0,1,Tower,DEPT,Center for International Medicine,CIM,Team F,1699.0,1193.0
+FSERV00401,1721.0,970.0,1,Tower,DEPT,Spiritual Care Office,SCO,Team F,1718.0,1306.0
+FHALL01401,1627.0,1029.0,1,Tower,HALL,Tower Hallway 6,Hallway F01401,Team F,1635.0,1303.0
+FSERV00201,1605.0,1029.0,1,Tower,SERV,Tower Medical Cashier,Tower Cashier,Team F,1617.0,1298.0
+FHALL01501,1627.0,1060.0,1,Tower,HALL,Tower Hallway 7,Hallway F01501,Team F,1619.0,1325.0
+FHALL01601,1758.0,1060.0,1,Tower,HALL,Tower Hallway 8,Hallway F01601,Team F,1718.0,1361.0
+FHALL01701,1721.0,956.0,1,Tower,HALL,Tower Hallway 9,Hallway F01701,Team F,1728.0,1295.0
+FDEPT00301,1721.0,931.0,1,Tower,DEPT,Multifaith Chapel,Chapel,Team F,1735.0,1280.0
+FHALL01801,1758.0,956.0,1,Tower,HALL,Tower Hallway 10,Hallway F01801,Team F,1754.0,1301.0
+FHALL01901,1758.0,1120.0,1,Tower,HALL,Tower Hallway 11,Hallway F01901,Team F,1697.0,1388.0
+FHALL02001,1700.0,1120.0,1,Tower,HALL,Tower Hallway 12,Hallway F02001,Team F,1652.0,1375.0
+FDEPT00201,1610.0,1120.0,1,Tower,DEPT,Bretholtz Center for Patients and Families,Bretholtz WR,Team F,1587.0,1343.0
+FSERV00301,1700.0,1158.0,1,Tower,SERV,Kessler Library,Kessler Library,Team F,1641.0,1396.0
+FHALL02101,1769.0,1146.0,1,Tower,HALL,Tower Hallway Entrance,Tower Entrance 2,Team F,1694.0,1411.0
+FDEPT00401,1794.0,1146.0,1,Tower,DEPT,Sharf Admitting Center,Sharf Center,Team F,1712.0,1418.0
+FHALL02201,1769.0,1280.0,1,Tower,HALL,Hallway Lobby Entrance,Entrance Hallway,Team F,1658.0,1471.0
+FLABS00101,1845.0,1250.0,1,Tower,LABS,Obstetrics Admitting,Obs Admitting,Team F,1719.0,1483.0
+FHALL02301,1845.0,1280.0,1,Tower,HALL,Lobby Hallway 1,Hallway F02301,Team F,1708.0,1502.0
+FHALL02401,1965.0,1280.0,1,Tower,HALL,Lobby Hallway 2,Hallway F02401,Team F,1787.0,1525.0
+FHALL02501,1965.0,1239.0,1,Tower,HALL,Lobby Hallway 3,Hallway F02501,Team F,1799.0,1503.0
+FSTAI00301,1947.0,1239.0,1,Tower,STAI,Lobby Escalator,Lobby Escalator,Team F,1785.0,1497.0
+FHALL02601,2026.0,1239.0,1,Tower,HALL,Lobby Hallway 4,Hallway F02601,Team F,1847.0,1527.0
+FHALL02701,2066.0,1239.0,1,Tower,HALL,Lobby Hallway 7,Hallway F02701,Team F,1874.0,1538.0
+FDEPT00501,2128.0,1300.0,1,Tower,DEPT,Emergency Department,Emergency,Team F,1906.0,1610.0
+FHALL02801,1748.0,1280.0,1,Tower,HALL,Lobby Entrance Hallway,HallwayF02801,Team F,1630.0,1463.0
+FEXIT00201,1748.0,1321.0,1,Tower,EXIT,75 Francis Valet Drop-off,75 Francis Exit,Team F,1615.0,1496.0
+FHALL02901,1700.0,1280.0,1,Tower,HALL,75 Lobby,75 Lobby,Team F,1594.0,1456.0
+FINFO00101,1700.0,1226.0,1,Tower,INFO,75 Lobby Information Desk,Lobby Info Desk,Team F,1619.0,1432.0
+FSERV00501,1645.0,1280.0,1,Tower,SERV,75 Lobby Valet Cashier,Valet Cashier,Team F,1548.0,1441.0
+FHALL03001,1645.0,1246.0,1,Tower,HALL,Lobby Hallway 5,Hallway F02701,Team F,1564.0,1424.0
+FRETL00201,1609.0,1246.0,1,Tower,RETL,Au Bon Pain,ABP,Team F,1546.0,1416.0
+FHALL03101,2026.0,976.0,1,Tower,HALL,Lobby Hallway 6,Hallway F02801,Team F,1944.0,1385.0
+FREST00101,2091.0,976.0,1,Tower,REST,Bathroom 75 Lobby,Bathroom Lobby,Team F,1976.0,1399.0
+FEXIT00301,2099.0,1357.0,1,Tower,EXIT,Emergency Department Entrance,Emergency Entrance,Team F,1873.0,1633.0
+FHALL03201,1758.0,1029.0,1,Tower,HALL,Tower Hallway 13,Hallway F03201,Team F,1717.0,1357.0
+FDEPT00601,1780.0,1029.0,1,Tower,DEPT,International Patient Center,IPC,Team F,1745.0,1344.0
+FHALL03301,2066.0,1282.0,1,Tower,HALL,Emergency Hallway,Hallway F03301,Team F,1849.0,1551.0
+GCONF02001,1493.0,2117.0,1,Shapiro,CONF,Shapiro Board Room MapNode 20 Floor 1,Shapiro Board Room,Team G,1140.0,1859.0
+GDEPT01901,1566.0,2139.0,1,Shapiro,DEPT,Zinner Breakout Room MapNode 19 Floor 1,Zinner Breakout Room,Team G,1183.0,1892.0
+GELEV00N01,1647.0,1930.0,1,Shapiro,ELEV,Elevator N MapNode 26 Floor 1,Hall,Team G,1319.0,1798.0
+GELEV00Q01,1648.0,2161.0,1,Shapiro,ELEV,Elevator Q MapNode 18 Floor 1,Elevator Q Floor 1,Team G,1234.0,1925.0
+GEXIT00101,1751.0,1825.0,1,Shapiro,EXIT,Francis Street Exit MapNode 1 Floor 1,Francis Street Exit Floor 1,Team G,1435.0,1774.0
+GHALL00201,1722.0,1832.0,1,Shapiro,HALL,Hallway MapNode 2 Floor 1,Hall,Team G,1414.0,1768.0
+GHALL00301,1705.0,1831.0,1,Shapiro,HALL,Hallway MapNode 3 Floor 1,Hall,Team G,1394.0,1760.0
+GHALL00601,1707.0,2015.0,1,Shapiro,HALL,Hallway MapNode 6 Floor 1,Hall,Team G,1330.0,1863.0
+GHALL00701,1708.0,2092.0,1,Shapiro,HALL,Hallway MapNode 7 Floor 1,Hall,Team G,1305.0,1903.0
+GHALL00801,1707.0,2152.0,1,Shapiro,HALL,Hallway MapNode 8 Floor 1,Hall,Team G,1278.0,1944.0
+GHALL00901,1707.0,2164.0,1,Shapiro,HALL,Hallway MapNode 9 Floor 1,Hall,Team G,1274.0,1949.0
+GHALL01001,1673.0,2165.0,1,Shapiro,HALL,Hallway MapNode 10 Floor 1,Hall,Team G,1251.0,1933.0
+GHALL01401,1749.0,2151.0,1,Shapiro,HALL,Hallway MapNode 14 Floor 1,Hall,Team G,1313.0,1947.0
+GHALL01501,1749.0,2224.0,1,Shapiro,HALL,Hallway MapNode 15 Floor 1,Hall,Team G,1291.0,1986.0
+GHALL01601,1689.0,2225.0,1,Shapiro,HALL,Hallway MapNode 16 Floor 1,Hall,Team G,1241.0,1969.0
+GHALL01701,1605.0,2093.0,1,Shapiro,HALL,Hallway MapNode 17 Floor 1,Hall,Team G,1237.0,1876.0
+GHALL02101,1600.0,1830.0,1,Shapiro,HALL,Hallway MapNode 21 Floor 1,Hall,Team G,1324.0,1730.0
+GHALL02201,1601.0,1866.0,1,Shapiro,HALL,Hallway MapNode 22 Floor 1,Hall,Team G,1307.0,1755.0
+GHALL02401,1602.0,1928.0,1,Shapiro,HALL,Hallway MapNode 24 Floor 1,Hall,Team G,1288.0,1786.0
+GHALL02801,1270.0,1830.0,1,Shapiro,HALL,Hallway MapNode 28 Floor 1,Hall,Team G,1087.0,1647.0
+GHALL02901,1262.0,1850.0,1,Shapiro,HALL,Hallway MapNode 29 Floor 1,Hall,Team G,1069.0,1652.0
+GHALL03001,1256.0,1858.0,1,Shapiro,HALL,Hallway MapNode 30 Floor 1,Hall,Team G,1060.0,1657.0
+GHALL03101,1227.0,1859.0,1,Shapiro,HALL,Hallway MapNode 31 Floor 1,Hall,Team G,1041.0,1649.0
+GHALL03301,1255.0,1872.0,1,Shapiro,HALL,Hallway MapNode 33 Floor 1,Hall,Team G,1056.0,1664.0
+GHALL03401,1284.0,1872.0,1,Shapiro,HALL,Hallway MapNode 34 Floor 1,Hall,Team G,1075.0,1672.0
+GREST01201,1671.0,2015.0,1,Shapiro,REST,Bathroom MapNode 12 Floor 1,Restroom Shapiro Floor 1,Team G,1309.0,1855.0
+GRETL03501,1284.0,1884.0,1,Shapiro,REST,Random Room MapNode 35 Floor 1,Secret Room Floor 1,Team G,1072.0,1678.0
+GSERV02301,1600.0,1895.0,1,Shapiro,SERV,ATM MapNode 23 Floor 1,ATM Floor 1,Team G,1293.0,1777.0
+GSTAI00501,1707.0,1992.0,1,Shapiro,STAI,Stairway MapNode 5 Floor 1,Northbound Stairs Floor 2,Team G,1337.0,1849.0
+GSTAI01301,1750.0,2014.0,1,Shapiro,STAI,Staircase MapNode 13 Floor 1,Southbound Stairs Floor 1,Team G,1361.0,1877.0
+GDEPT00702,1341.0,1778.0,2,Shapiro,DEPT,Waiting room? Node 7 Floor 2,Waiting Area Shapiro Floor 2,Team G,1174.0,1614.0
+GDEPT02402,1578.0,1932.0,2,Shapiro,DEPT,Watkins A Node 24 Floor 2 Floor 2,Watkins A,Team G,1286.0,1749.0
+GDEPT03502,1580.0,2166.0,2,Shapiro,DEPT,Watkins B Node 35 Floor 2,Watkins B,Team G,1173.0,1915.0
+GELEV00N02,1630.0,1931.0,2,Shapiro,ELEV,Elevator N Node 25 Floor 2,Elevator N Floor 1,Team G,1314.0,1762.0
+GELEV00Q02,1628.0,2102.0,2,Shapiro,ELEV,Elevator Q Node 31a Floor 2,Elevator Q Floor 2,Team G,1225.0,1899.0
+GHALL00102,1170.0,1780.0,2,Shapiro,HALL,Hall Node 1 Floor 2,Hall,Team G,1082.0,1579.0
+GHALL00202,1168.0,1820.0,2,Shapiro,HALL,Hall Node 2 Floor 2,Hall,Team G,1069.0,1598.0
+GHALL00302,1231.0,1781.0,2,Shapiro,HALL,Hall Node 3 Floor 2,Hall,Team G,1107.0,1589.0
+GHALL00402,1230.0,1820.0,2,Shapiro,HALL,Hall Node 4 Floor 2,Hall,Team G,1095.0,1608.0
+GHALL00502,1283.0,1781.0,2,Shapiro,HALL,Hall Node 5 Floor 2,Hall,Team G,1140.0,1601.0
+GHALL01002,1340.0,1820.0,2,Shapiro,HALL,Hall Node 10 Floor 2,Hall,Team G,1163.0,1634.0
+GHALL01102,1396.0,1781.0,2,Shapiro,HALL,Hall Node 11 Floor 2,Hall,Team G,1207.0,1626.0
+GHALL01202,1395.0,1820.0,2,Shapiro,HALL,Hall Node 12 Floor 2,Hall,Team G,1196.0,1645.0
+GHALL01302,1450.0,1781.0,2,Shapiro,HALL,Hall Node 13 Floor 2,Hall,Team G,1236.0,1637.0
+GHALL01402,1450.0,1820.0,2,Shapiro,HALL,Hall Node 14 Floor 2,Hall,Team G,1226.0,1658.0
+GHALL01502,1502.0,1781.0,2,Shapiro,HALL,Hall Node 15 Floor 2,Hall,Team G,1270.0,1650.0
+GHALL01602,1502.0,1820.0,2,Shapiro,HALL,Hall Node 16 Floor 2,Hall,Team G,1258.0,1669.0
+GHALL01702,1578.0,1820.0,2,Shapiro,HALL,Hall Node 17 (Exit?) Floor 2,Hall,Team G,1322.0,1695.0
+GHALL01802,1630.0,1801.0,2,Shapiro,HALL,Hall Node 18 Floor 2,Hall,Team G,1360.0,1692.0
+GHALL02002,1684.0,1801.0,2,Shapiro,HALL,Hall Node 20 Floor 2,Hall,Team G,1407.0,1711.0
+GHALL02102,1683.0,1821.0,2,Shapiro,HALL,Hall Node 21 Floor 2,Hall,Team G,1400.0,1726.0
+GHALL02202,1720.0,1801.0,2,Shapiro,HALL,Hall Node 22 Floor 2,Hall,Team G,1433.0,1723.0
+GHALL02302,1726.0,1835.0,2,Shapiro,HALL,Hall Node 23 Floor 2,Hall,Team G,1420.0,1752.0
+GHALL02702,1726.0,1930.0,2,Shapiro,HALL,Hall Node 27 Floor 2,Hall,Team G,1389.0,1795.0
+GHALL02902,1728.0,2042.0,2,Shapiro,HALL,Hall Node 29 Floor 2,Hall,Team G,1340.0,1865.0
+GHALL03002,1580.0,2090.0,2,Shapiro,HALL,Hall Node 30 Floor 2,Hall,Team G,1200.0,1879.0
+GHALL03202,1684.0,2091.0,2,Shapiro,HALL,Hall Node 32 Floor 2,Hall,Team G,1275.0,1909.0
+GHALL03302,1692.0,2124.0,2,Shapiro,HALL,Hall Node 33 Floor 2,Hall,Team G,1267.0,1931.0
+GHALL03402,1724.0,2123.0,2,Shapiro,HALL,Hall Node 34 Floor 2,Hall,Team G,1291.0,1940.0
+GHALL03602,1580.0,2208.0,2,Shapiro,HALL,Hall Node 36 Floor 2,Hall,Team G,1162.0,1930.0
+GHALL03702,1692.0,2211.0,2,Shapiro,HALL,Hall Node 37 Floor 2,Hall,Team G,1253.0,1955.0
+GHALL03802,1726.0,2210.0,2,Shapiro,HALL,Hall Node 38 Floor 2,Hall,Team G,1281.0,1967.0
+GINFO01902,1630.0,1821.0,2,Shapiro,INFO,Information Center Shapiro Floor 2,Info Node 19 Floor 2,Team G,1350.0,1708.0
+GREST00602,1284.0,1821.0,2,Shapiro,REST,Restroom Node 6 Floor 2,Restroom 1 Shapiro Floor 2,Team G,1133.0,1624.0
+GREST03102,1628.0,2092.0,2,Shapiro,REST,Handicap Accessible Restrooms Shapiro Floor 2,Restroom Node 31 Floor 2,Team G,1233.0,1889.0
+GSTAI02602,1686.0,1931.0,2,Shapiro,STAI,Stairs Node 26 Floor 2,Floor 2 Stairs Upper,Team G,1362.0,1785.0
+GSTAI02802,1685.0,2041.0,2,Shapiro,STAI,Stairs Node 28 Floor 2,Floor 2 Stairs Lower,Team G,1317.0,1852.0
+GDEPT00403,1580.0,2142.0,3,Shapiro,DEPT,Brigham Circle Medical Associates Node 4 Floor 3,Brigham Circle Medical Associates,Team G,1199.0,1852.0
+GDEPT01403,1580.0,1904.0,3,Shapiro,DEPT,Watkins Clinic C Node 14 Floor 3,Watkins Clinic C,Team G,1276.0,1728.0
+GELEV00N03,1628.0,1904.0,3,Shapiro,ELEV,Elevator N Node 15 Floor 3,Elevator N Floor 3,Team G,1316.0,1738.0
+GELEV00Q03,1628.0,2142.0,3,Shapiro,ELEV,Elevator Q Node 5 Floor 3,Elevator Q Floor 3,Team G,1232.0,1865.0
+GHALL00103,1562.0,2230.0,3,Shapiro,HALL,Hallway Node 1 Floor 3,Hall,Team G,1173.0,1879.0
+GHALL00203,1580.0,2230.0,3,Shapiro,HALL,Hallway Node 2 Floor 3,Hall,Team G,1181.0,1883.0
+GHALL00303,1580.0,2180.0,3,Shapiro,HALL,Hallway Node 3 Floor 3,Hall,Team G,1190.0,1866.0
+GHALL00603,1685.0,2142.0,3,Shapiro,HALL,Hallway Node 6 Floor 3,Hall,Team G,1271.0,1882.0
+GHALL00703,1685.0,2230.0,3,Shapiro,HALL,Hallway Node 7 Floor 3,Hall,Team G,1251.0,1914.0
+GHALL00803,1685.0,2106.0,3,Shapiro,HALL,Hallway Node 8 Floor 3,Hall,Team G,1284.0,1863.0
+GHALL01003,1580.0,2070.0,3,Shapiro,HALL,Hallway Node 10 Floor 3,Hall,Team G,1217.0,1823.0
+GHALL01103,1628.0,2070.0,3,Shapiro,HALL,Hallway Node 11 Floor 3,Hall,Team G,1253.0,1836.0
+GHALL01303,1580.0,2006.0,3,Shapiro,HALL,Hallway Node 13 Floor 3,Hall,Team G,1241.0,1787.0
+GREST01203,1628.0,2052.0,3,Shapiro,REST,Restroom Node 12 Floor 3,Restroom Shapiro Floor 3,Team G,1261.0,1824.0
+GSERV01603,1580.0,1858.0,3,Shapiro,SERV,The Porch Node 16 Floor 3,The Porch,Team G,1289.0,1712.0
+GSTAI00903,1685.0,2052.0,3,Shapiro,STAI,Staircase Node 9 Floor 3,Floor 3 Stairs ,Team G,1295.0,1845.0
+GELEV00QL1,1637.0,2116.0,L1,Shapiro,ELEV,Elevator Q MapNode 7 Floor L1,Elevator Q L1,Team G,1255.0,1934.0
+GEXIT001L1,1702.0,2260.0,L1,Shapiro,EXIT,Fenwood Road Exit MapNode 1 Floor L1,Fenwood Road EntranceExit L1,Team G,1277.0,1990.0
+GHALL002L1,1702.0,2167.0,L1,Shapiro,HALL,Hallway MapNode 2 Floor L1,Hall,Team G,1294.0,1981.0
+GHALL003L1,1688.0,2167.0,L1,Shapiro,HALL,Hallway MapNode 3 Floor L1,Hall,Team G,1280.0,1970.0
+GHALL004L1,1666.0,2167.0,L1,Shapiro,HALL,Hallway MapNode 4 Floor L1,Hall,Team G,1262.0,1967.0
+GHALL005L1,1688.0,2131.0,L1,Shapiro,HALL,Hallway MapNode 5 Floor L1,Hall,Team G,1292.0,1956.0
+GHALL006L1,1665.0,2116.0,L1,Shapiro,HALL,Hallway MapNode 6 Floor L1,Hall,Team G,1281.0,1946.0
+GSTAI008L1,1720.0,2131.0,L1,Shapiro,STAI,Stairs MapNode 8 Floor L1,L1 Stairs,Team G,1316.0,1967.0
+GELEV00QL2,1625.0,2089.0,L2,Shapiro,ELEV,Elevator Q MapNode 6 Floor L2,Elevator Q L2,Team G,1256.0,1940.0
+GHALL001L2,1730.0,1585.0,L2,Shapiro,HALL,Hallway MapNode 1 Floor L2,Hall,Team G,1529.0,1695.0
+GHALL005L2,1642.0,2089.0,L2,Shapiro,HALL,Hallway MapNode 5 Floor L2,Hall,Team G,1278.0,1947.0
+GHALL007L2,1578.0,2089.0,L2,Shapiro,HALL,Hallway MapNode 7 Floor L2,Hall,Team G,1229.0,1928.0
+GHALL008L2,1577.0,2195.0,L2,Shapiro,HALL,Hallway MapNode 8 Floor L2,Hall,Team G,1185.0,1986.0
+GHALL009L2,1578.0,2032.0,L2,Shapiro,HALL,Hallway MapNode 9 Floor L2,Hall,Team G,1250.0,1898.0
+GHALL010L2,1550.0,2032.0,L2,Shapiro,HALL,Hallway MapNode 10 Floor L2,Hall,Team G,1229.0,1890.0
+GHALL011L2,1550.0,1966.0,L2,Shapiro,HALL,Hallway MapNode 11 Floor L2,Hall,Team G,1251.0,1856.0
+GHALL012L2,1512.0,1967.0,L2,Shapiro,HALL,Hallway MapNode 12 Floor L2,Hall,Team G,1223.0,1845.0
+GHALL013L2,1512.0,1910.0,L2,Shapiro,HALL,Hallway MapNode 13 Floor L2,Hall,Team G,1244.0,1818.0
+GHALL016L2,1512.0,1702.0,L2,Shapiro,HALL,Hallway MapNode 16 Floor L2,Hall,Team G,1318.0,1703.0
+GHALL017L2,1512.0,1539.0,L2,Shapiro,HALL,Hallway MapNode 17 Floor L2,Hall,Team G,1385.0,1616.0
+GLABS003L2,1729.0,2089.0,L2,Shapiro,LABS,Cardiovascular Imaging Center Floor L2,Cardiovascular Imaging Center,Team G,1336.0,1972.0
+GLABS014L2,1512.0,1844.0,L2,Shapiro,LABS,Cardiac Stress Test Lab Floor L2,Cardiac Stress Test Lab,Team G,1270.0,1777.0
+GLABS015L2,1512.0,1812.0,L2,Shapiro,LABS,CVRR Floor L2,CVRR,Team G,1281.0,1762.0
+GREST004L2,1680.0,2090.0,L2,Shapiro,REST,Restroom MapNode 4 Floor L2,Restroom Shapiro L2,Team G,1304.0,1958.0
+HHALL00102,1875.0,925.0,2,Tower,HALL,Hallway Connector 1 Floor 2,Hallway H00102,Team H,1840.0,1296.0
+HHALL00202,1955.0,900.0,2,Tower,HALL,Hallway Connector 2 Floor 2,Hallway H00202,Team H,1920.0,1300.0
+HRETL00102,1935.0,860.0,2,Tower,RETL,Garden Cafe,Garden Cafe,Team H,1901.0,1262.0
+HHALL00302,2035.0,900.0,2,Tower,HALL,Hallway Connector 3 Floor 2,Hallway H00302,Team H,1972.0,1330.0
+HSTAI00102,2060.0,880.0,2,Tower,STAI,Stairwell 1 Floor 2,Stairwell 0102,Team H,2000.0,1316.0
+HHALL00402,1875.0,1025.0,2,Tower,HALL,Hallway Connector 4 Floor 2,Hallway H00402,Team H,1811.0,1342.0
+HHALL00502,1825.0,1025.0,2,Tower,HALL,Hallway Connector 5 Floor 2,Hallway H00502,Team H,1770.0,1340.0
+HRETL00202,1615.0,1025.0,2,Tower,RETL,Vending Machine Floor 2?,Vending Machine,Team H,1640.0,1286.0
+HBATH00102,1605.0,1008.0,2,Tower,BATH,Bathroom 1 Tower Floor 2,Bathroom 0102,Team H,1626.0,1268.0
+HRETL00302,1825.0,1080.0,2,Tower,RETL,Gift Shop Tower Floor 2,Gift Shop,Team H,1775.0,1364.0
+HHALL00602,1775.0,1080.0,2,Tower,HALL,Hallway Connector 6 Floor 2,Hallway H00602,Team H,1733.0,1351.0
+HHALL00702,1740.0,1165.0,2,Tower,HALL,Hallway Connector 7 Floor 2,Hallway H00702,Team H,1662.0,1395.0
+HSTAI00202,1695.0,1165.0,2,Tower,STAI,Stairwell 2 Tower Floor 2,Stairwell 0202,Team H,1632.0,1382.0
+HHALL00802,1740.0,1230.0,2,Tower,HALL,Hallway Connector 8 Floor 2,Hallway H00802,Team H,1640.0,1423.0
+HSTAI00302,1790.0,1230.0,2,Tower,STAI,Escalator 1 Floor 2,Escalator 1 Floor 2,Team H,1679.0,1440.0
+HHALL00902,1740.0,1280.0,2,Tower,HALL,Hallway Connector 9 Floor 2,Hallway H00902,Team H,1621.0,1443.0
+HHALL01002,2055.0,1280.0,2,Tower,HALL,Hallway Connector 10 Floor 2,Hallway H01002,Team H,1852.0,1536.0
+HDEPT00102,2055.0,1330.0,2,Tower,DEPT,Endoscopy,Endoscopy,Team H,1835.0,1567.0
+HHALL00503,1680.0,1290.0,3,Tower,HALL,Hallway Connector 5 Floor 3,Hallway H00502,Team H,1571.0,1416.0
+HSTAI00103,1680.0,1275.0,3,Tower,STAI,Stairwell 1 Floor 3,Stairwell,Team H,1589.0,1398.0
+HHALL00403,1325.0,1290.0,3,Tower,HALL,Hallway Connector 4 Floor 3,Hallway H00403,Team H,1337.0,1325.0
+HHALL00303,1325.0,985.0,3,Tower,HALL,Hallway Connector 3 Floor 3,Hallway H00303,Team H,1450.0,1158.0
+HHALL00203,1235.0,985.0,3,Tower,HALL,Hallway Connector 2 Floor 3,Hallway H00203,Team H,1382.0,1132.0
+HLABS00103,1235.0,865.0,3,Tower,LABS,Reproductive Endocrine Labs,Reproductive Endocrine Labs,Team H,1412.0,1092.0
+HHALL00103,1325.0,655.0,3,Tower,HALL,Hallway Connector 1 Floor 3,Hallway H00103,Team H,1565.0,982.0
+HHALL00603,1735.0,925.0,3,Tower,HALL,Hallway Connector 6 Floor 3,Hallway H00603,Team H,1766.0,1225.0
+HHALL00703,1735.0,900.0,3,Tower,HALL,Hallway Connector 7 Floor 3,Hallway H00703,Team H,1778.0,1214.0
+HDEPT00103,1725.0,900.0,3,Tower,DEPT,Dialysis Waiting Room,Dialysis WR,Team H,1765.0,1220.0
+HHALL00803,1735.0,865.0,3,Tower,HALL,Hallway Connector 8 Floor 3,Hallway H00803,Team H,1786.0,1202.0
+HSERV00103,1750.0,865.0,3,Tower,SERV,Nursing Room,Nursing Room,Team H,1812.0,1194.0
+HHALL00903,1735.0,820.0,3,Tower,HALL,Hallway Connector 9 Floor 3,Hallway H00903,Team H,1801.0,1180.0
+HHALL01003,1785.0,820.0,3,Tower,HALL,Hallway Connector 10 Floor 3,Hallway H01003,Team H,1849.0,1192.0
+HBATH00103,1785.0,830.0,3,Tower,BATH,Bathroom 1 Tower Floor 3,Bathroom 0103,Team H,1845.0,1200.0
+HHALL01103,1690.0,820.0,3,Tower,HALL,Hallway Connector 11 Floor 3,Hallway H01103,Team H,1777.0,1170.0
+HDEPT00203,1690.0,830.0,3,Tower,DEPT,MICU 3BC Waiting Room,MICU 3BC WR,Team H,1772.0,1177.0
+HHALL01203,1600.0,820.0,3,Tower,HALL,Hallway Connector 12 Floor 3,Hallway H01203,Team H,1707.0,1145.0
+HHALL01303,1600.0,1030.0,3,Tower,HALL,Hallway Connector 13 Floor 3,Hallway H01303,Team H,1630.0,1257.0
+HHALL01403,1735.0,1030.0,3,Tower,HALL,Hallway Connector 14 Floor 3,Hallway H01403,Team H,1728.0,1292.0
+HHALL01503,1735.0,985.0,3,Tower,HALL,Hallway Connector 15 Floor 3,Hallway H01503,Team H,1744.0,1269.0
+HBATH00203,1750.0,985.0,3,Tower,BATH,Bathroom 2 Tower Floor 3,Bathroom 0203,Team H,1754.0,1274.0
+IHALL00103,2255.0,1290.0,3,45 Francis,HALL,Hallway Node 1,H1,Team I,1974.0,1555.0
+IHALL00203,2323.0,1290.0,3,45 Francis,HALL,Hallway Node 2,H2,Team I,2059.0,1586.0
+IHALL00303,2448.0,1290.0,3,45 Francis,HALL,Hallway Node 3,H3,Team I,2152.0,1620.0
+IHALL00403,2570.0,1290.0,3,45 Francis,HALL,Hallway Node 4,H4,Team I,2242.0,1653.0
+IHALL00503,2730.0,1290.0,3,45 Francis,HALL,Hallway Node 5,H5,Team I,2356.0,1694.0
+IHALL00603,2772.0,1290.0,3,45 Francis,HALL,Hallway Node 6,H6,Team I,2388.0,1705.0
+IHALL00703,2772.0,1227.0,3,45 Francis,HALL,Hallway Node 7,H7,Team I,2408.0,1679.0
+IHALL00803,2772.0,1147.0,3,45 Francis,HALL,Hallway Node 8,H8,Team I,2435.0,1640.0
+IHALL00903,2649.0,1075.0,3,45 Francis,HALL,Hallway Node 9,H9,Team I,2376.0,1559.0
+IHALL01003,2772.0,1075.0,3,45 Francis,HALL,Hallway Node 10,H10,Team I,2462.0,1591.0
+IHALL01103,2922.0,1075.0,3,45 Francis,HALL,Hallway Node 11,H11,Team I,2573.0,1630.0
+IHALL01203,2220.0,1034.0,3,45 Francis,HALL,Hallway Node 12,H12,Team I,2080.0,1425.0
+IHALL01303,2323.0,1034.0,3,45 Francis,HALL,Hallway Node 13,H13,Team I,2149.0,1451.0
+IHALL01403,2323.0,993.0,3,45 Francis,HALL,Hallway Node 14,H14,Team I,2166.0,1430.0
+IHALL01503,2220.0,944.0,3,45 Francis,HALL,Hallway Node 15,H15,Team I,2114.0,1376.0
+IHALL01603,2252.0,851.0,3,45 Francis,HALL,Hallway Node 16,H16,Team I,2172.0,1337.0
+IHALL01703,2323.0,851.0,3,45 Francis,HALL,Hallway Node 17,H17,Team I,2215.0,1352.0
+IHALL01803,2362.0,851.0,3,45 Francis,HALL,Hallway Node 18,H18,Team I,2248.0,1364.0
+IHALL01903,2492.0,851.0,3,45 Francis,HALL,Hallway Node 19,H19,Team I,2347.0,1400.0
+IHALL02003,2597.0,851.0,3,45 Francis,HALL,Hallway Node 20,H20,Team I,2422.0,1428.0
+IHALL02203,2362.0,764.0,3,45 Francis,HALL,Hallway Node 22,H22,Team I,2280.0,1317.0
+IREST00103,2255.0,1255.0,3,45 Francis,REST,Restroom 1 - Family,R1,Team I,1985.0,1538.0
+IREST00203,2570.0,1257.0,3,45 Francis,REST,Restroom 2,R2,Team I,2252.0,1639.0
+IREST00303,2745.0,1147.0,3,45 Francis,REST,Restroom 3,R3,Team I,2411.0,1628.0
+IREST00403,2300.0,1018.0,3,45 Francis,REST,Restroom 4 - M wheelchair,R4,Team I,2142.0,1434.0
+IREST00503,2277.0,995.0,3,45 Francis,REST,Restroom 5 - F wheelchair,R5,Team I,2117.0,1415.0
+IDEPT00103,2323.0,1328.0,3,45 Francis,DEPT,Center for Infertility and Reproductive Surgery,D1,Team I,2049.0,1607.0
+IDEPT00203,2448.0,1328.0,3,45 Francis,DEPT,Gynecology Oncology MIGS,D2,Team I,2139.0,1640.0
+IDEPT00303,2730.0,1315.0,3,45 Francis,DEPT,General Surgical Specialties Suite A,D3,Team I,2349.0,1712.0
+IDEPT00403,2738.0,1227.0,3,45 Francis,DEPT,General Surgical Specialties Suite B,D4,Team I,2387.0,1668.0
+IDEPT00503,2868.0,1075.0,3,45 Francis,DEPT,Urology,D5,Team I,2529.0,1616.0
+IDEPT00603,2333.0,764.0,3,45 Francis,DEPT,Maternal Fetal Practice,D6,Team I,2260.0,1304.0
+IDEPT00703,2400.0,764.0,3,45 Francis,DEPT,Obstetrics,D7,Team I,2305.0,1319.0
+IDEPT00803,2492.0,887.0,3,45 Francis,DEPT,Fetal Med & Genetics,D8,Team I,2330.0,1422.0
+IDEPT00903,2631.0,851.0,3,45 Francis,DEPT,Gynecology,D9,Team I,2442.0,1435.0
+WELEV00E01,3265.0,830.0,1,45 Francis,ELEV,Elevator E Floor 1,Elevator E1,Team E,2902.0,1634.0
+WELEV00E02,3235.0,880.0,2,45 Francis,ELEV,Elevator E Floor 2,Elevator E2,Team B,2865.0,1609.0
+WELEV00F01,3050.0,980.0,1,45 Francis,ELEV,Elevator F Floor 1,Elevator F1,Team E,2690.0,1666.0
+WELEV00F02,3075.0,960.0,2,45 Francis,ELEV,Elevator F Floor 2,Elevator F2,Team B,2723.0,1641.0
+WELEV00G01,2935.0,900.0,1,45 Francis,ELEV,Elevator G Floor 1,Elevator G1,Team E,2632.0,1596.0
+WELEV00G02,2945.0,870.0,2,45 Francis,ELEV,Elevator G Floor 2,Elevator G2,Team B,2663.0,1534.0
+WELEV00HL1,2715.0,1070.0,L1,45 Francis,ELEV,Elevator H Floor L1,Elevator HL1,Team C,2419.0,1648.0
+WELEV00H01,2735.0,1070.0,1,45 Francis,ELEV,Elevator H Floor 1,Elevator H1,Team E,2427.0,1619.0
+WELEV00H02,2725.0,1065.0,2,45 Francis,ELEV,Elevator H Floor 2,Elevator H2,Team B,2416.0,1614.0
+WELEV00H03,2715.0,1075.0,3,45 Francis,ELEV,Elevator H Floor 3,Elevator H3,Team I,2420.0,1565.0
+WELEV00JL2,2360.0,805.0,L2,45 Francis,ELEV,Elevator J Floor L2,Elevator JL2,Team C,2264.0,1435.0
+WELEV00JL1,2360.0,800.0,L1,45 Francis,ELEV,Elevator J Floor L1,Elevator JL1,Team C,2268.0,1409.0
+WELEV00J01,2385.0,810.0,1,45 Francis,ELEV,Elevator J Floor 1,Elevator J1,Team E,2262.0,1391.0
+WELEV00J02,2385.0,800.0,2,45 Francis,ELEV,Elevator J Floor 2,Elevator J2,Team B,2269.0,1367.0
+WELEV00J03,2365.0,800.0,3,45 Francis,ELEV,Elevator J Floor 3,Elevator J3,Team I,2263.0,1335.0
+WELEV00KL2,2215.0,975.0,L2,45 Francis,ELEV,Elevator K Floor L2,Elevator KL2,Team C,2097.0,1494.0
+WELEV00KL1,2220.0,975.0,L1,45 Francis,ELEV,Elevator K Floor L1,Elevator KL1,Team C,2098.0,1474.0
+WELEV00K01,2240.0,985.0,1,45 Francis,ELEV,Elevator K Floor 1,Elevator K1,Team E,2093.0,1448.0
+WELEV00K02,2240.0,965.0,2,45 Francis,ELEV,Elevator K Floor 2,Elevator K2,Team B,2099.0,1418.0
+WELEV00K03,2220.0,985.0,3,45 Francis,ELEV,Elevator K Floor 3,Elevator K3,Team I,2095.0,1394.0
+WELEV00LL2,1785.0,925.0,L2,Tower,ELEV,Elevator L Floor L2,Elevator LL2,Team C,1804.0,1340.0
+WELEV00LL1,1785.0,925.0,L1,Tower,ELEV,Elevator L Floor L1,Elevator LL1,Team C,1804.0,1315.0
+WELEV00L01,1810.0,930.0,1,Tower,ELEV,Elevator L Floor 1,Elevator L1,Team F,1806.0,1290.0
+WELEV00L02,1805.0,925.0,2,Tower,ELEV,Elevator L Floor 2,Elevator L2,Team H,1804.0,1261.0
+WELEV00L03,1790.0,925.0,3,Tower,ELEV,Elevator L Floor 3,Elevator L3,Team H,1804.0,1233.0
+WELEV00ML2,1820.0,1280.0,L2,Tower,ELEV,Elevator M Floor L2,Elevator ML2,Team C,1699.0,1537.0
+WELEV00ML1,1820.0,1285.0,L1,Tower,ELEV,Elevator M Floor L1,Elevator ML1,Team C,1694.0,1514.0
+WELEV00M01,1810.0,1280.0,1,Tower,ELEV,Elevator M Floor 1,Elevator M1,Team F,1669.0,1481.0
+WELEV00M02,1825.0,1280.0,2,Tower,ELEV,Elevator M Floor 2,Elevator M2,Team H,1682.0,1458.0
+WELEV00M03,1815.0,1290.0,3,Tower,ELEV,Elevator M Floor 3,Elevator M3,Team H,1706.0,1440.0
+WHALL001L2,1745.0,1525.0,L2,Tower,HALL,Hallway Connector 1 Floor L2,Hallway W01L2,Team C,1555.0,1665.0
+WHALL002L2,1745.0,1540.0,L2,Shapiro,HALL,Hallway Connector 2 Floor L2,Hallway W02L2,Team G,1547.0,1681.0
+WHALL00101,2160.0,910.0,1,45 Francis,HALL,Hallway Connector 1 Floor 1,Hallway W0101,Team F,2042.0,1381.0
+WHALL00201,2175.0,910.0,1,45 Francis,HALL,Hallway Connector 2 Floor 1,Hallway W0201,Team E,2061.0,1388.0
+WHALL00103,2060.0,1290.0,3,45 Francis,HALL,Hallway Connector 1 Floor 3,Hallway W0103,Team H,1869.0,1514.0
+WHALL00203,2080.0,1290.0,3,45 Francis,HALL,Hallway Connector 2 Floor 3,Hallway W0203,Team I,1886.0,1524.0
+WHALL00102,3345.0,865.0,2,45 Francis,HALL,Hallway Connector 1 Floor 2,Hallway W0102,Team B,2943.0,1665.0
+WHALL00202,3360.0,860.0,2,15 Francis,HALL,Hallway Connector 2 Floor 2,Hallway W0202,Team D,2959.0,1662.0
+WHALL00302,2085.0,900.0,2,45 Francis,HALL,Hallway Connector 3 Floor 2,Hallway W0302,Team H,2017.0,1338.0
+WHALL00402,2105.0,900.0,2,45 Francis,HALL,Hallway Connector 4 Floor 2,Hallway W0402,Team B,2032.0,1343.0
+WHALL00502,2085.0,1280.0,2,45 Francis,HALL,Hallway Connector 5 Floor 2,Hallway W0502,Team H,1912.0,1559.0
+WHALL00602,2105.0,1280.0,2,45 Francis,HALL,Hallway Connector 6 Floor 2,Hallway W0602,Team B,1930.0,1565.0
+WHALL00702,1740.0,1500.0,2,Tower,HALL,Hallway Connector 7 Floor 2,Hallway W0702,Team H,1547.0,1556.0
+WHALL00802,1720.0,1745.0,2,Shapiro,HALL,Hallway Connector 8 Floor 2,Hallway W0802,Team G,1456.0,1693.0
+WHALL00902,1690.0,2240.0,2,Shapiro,HALL,Hallway Connector 9 Floor 2,Hallway W0902,Team G,1256.0,1974.0
+WHALL01002,1690.0,2455.0,2,BTM,HALL,Hallway Connector 10 Floor 2,Hallway W1002,Team A,1186.0,2085.0

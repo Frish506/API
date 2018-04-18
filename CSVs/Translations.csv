@@ -1,0 +1,38 @@
+0,turn left,girar a la izquierda
+1,turn right,dobla a la derecha
+2,straight,adelante
+3,Report a spill,Informar un derrame
+4,Enter Description,ingresar descripción
+5,Workers Needed,trabajadores necesarios
+6,Enter Number,Ingresar número
+7,Add Node,Agregar nodo
+8,Add Edge,Añadir borde
+9,Update Node,Actualizar nodo
+10,Delete Node,Eliminar nodo
+11,Start Location,Inicio de Ubicación
+12,Destination,Destino
+13,Clear,Claro
+14,Service Request,Petición de servicio
+15,Report a Spill,Informar un derrame
+16,Enter a Description,Ingrese una descripción
+17,Workers required,Trabajadores necesarios
+18,Submit Request,Enviar peticion
+19,Error processing your request. Please try again!,Error al procesar su solicitud ¡Inténtalo de nuevo!
+20,Login failed. Please try again,Acceso fallido. Por favor intente nuevamente
+21,Go,Ir
+22,Login,Acceso
+23,Logout,Cerrar Sesión
+24,Username,Usario
+25,Password,Contraseña
+26,Priority,Prioridad
+27,Hazardous,Peligroso
+28,Mop,fregona
+29,Yes,Sí
+30,No,No
+31,Manage Service Requests,Administrar Solicitudes de Servicio
+32,Enter a Number,Ingrese un Número
+33,Edit Nodes,Editar Eodos
+34,Find nearest bathroom,Encuentra el baño más cercano
+35,Find nearest exit,Encuentra la salida más cercana
+36,Find nearest ATM,Encuentra el cajero más cercano
+37,Find nearest store,Encuentra la tienda más cercana
