@@ -8,5 +8,6 @@ public class StagesClass {
     public static Stage serviceStage;
     public static Scene serviceScene;
     public static Stage reportStage;
+    public static Scene reportScene;
 
 }
